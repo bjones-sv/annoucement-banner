@@ -1,0 +1,148 @@
+<style type="text/css">
+#announcement-banner {
+    padding: 0px;
+}
+
+.aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a:active, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a:focus, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a:hover, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a:link, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a:visited {
+    background-color: #c9b256;
+    color: #333;
+}
+
+.issue-body-content .module > .mod-header {
+    border-bottom-style: dashed;
+    border-bottom-color: #c9b256;
+    border-bottom-width: thin;
+    /* background: #F0F6F6; */
+}
+
+.aui-tabs.horizontal-tabs>.tabs-menu>.menu-item a, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item a:active, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item a:focus, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item a:hover {
+    background-color: #f1e5b3;
+}
+
+.aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a:after {
+    background: #d04437;
+}
+
+.aui-sidebar-submenu .aui-navgroup-vertical .aui-nav .aui-nav-selected>.aui-nav-item, .aui-sidebar .aui-navgroup-vertical .aui-nav .aui-nav-selected>.aui-nav-item {
+    background-color: rgba(201, 178, 86, 0.55);
+    color: #000000;
+}
+
+.aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a:after {
+    height: 4px;
+}
+
+/*Quicklinks Gold background*/
+.aui-nav-heading {
+    color: #172b4d;
+    background-color: rgba(201, 178, 86, 0.55)
+   /* background-color: #c9b256;*/
+}
+
+* {
+    font-family:'Merriweather', 'Arial', sans-serif !important;
+}
+* {
+    line-height: 1.42857143;
+    letter-spacing: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility !important;
+}
+
+/*Time*/
+ time.livestamp {
+    color: rgb(47, 174, 44) !important
+}
+
+<style type="text/css">
+#announcement-banner {
+    padding: 0px;
+}
+
+.aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a:active, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a:focus, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a:hover, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a:link, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a:visited {
+    background-color: #c9b256;
+    color: #333;
+}
+
+.issue-body-content .module > .mod-header {
+    border-bottom-style: dashed;
+    border-bottom-color: #c9b256;
+    border-bottom-width: thin;
+    /* background: #F0F6F6; */
+}
+
+.aui-tabs.horizontal-tabs>.tabs-menu>.menu-item a, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item a:active, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item a:focus, .aui-tabs.horizontal-tabs>.tabs-menu>.menu-item a:hover {
+    background-color: #f1e5b3;
+}
+
+.aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a:after {
+    background: #d04437;
+}
+
+.aui-sidebar-submenu .aui-navgroup-vertical .aui-nav .aui-nav-selected>.aui-nav-item, .aui-sidebar .aui-navgroup-vertical .aui-nav .aui-nav-selected>.aui-nav-item {
+    background-color: rgba(201, 178, 86, 0.55);
+    color: #000000;
+}
+
+.aui-tabs.horizontal-tabs>.tabs-menu>.menu-item.active-tab a:after {
+    height: 4px;
+}
+
+/*Quicklinks Gold background*/
+.aui-nav-heading {
+    color: #172b4d;
+    background-color: rgba(201, 178, 86, 0.55)
+   /* background-color: #c9b256;*/
+}
+
+* {
+    font-family:'Merriweather', 'Arial', sans-serif !important;
+}
+* {
+    line-height: 1.42857143;
+    letter-spacing: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility !important;
+}
+
+/*Time*/
+ time.livestamp {
+    color: rgb(47, 174, 44) !important
+}
+
+:root {
+    /* teal */
+    --main-header-bgcolor: #00796B;
+    /* 700 */
+    --main-header-button-hover: #00695C;
+    /* 800 */
+    --create-button-bgcolor: #009688;
+    /* 500 */
+    /* --header-bgcolor: #E0F2F1; */
+    --header-bgcolor: #f4f5f7;
+    /* 50 */
+    --sidebar-bgcolor: #E0F2F1;
+    /* 50 */
+    --main-button-bgcolor: #B2DFDB;
+    /* 100 */
+    --main-button-bgcolor-hover: #80CBC4;
+    /* 200 */
+    --list-bgcolor: #E0F2F1;
+    /* 50 */
+    --list-bgcolor-active: #B2DFDB;
+    /* 100 */
+    --gadget-header-bgcolor: #00897B;
+    /* 600 */
+    --primary-button-bgcolor: #009688;
+    /* 500 */
+    --primary-button-bgcolor-hover: #00897B;
+    /* 600 */
+}
+
+/* headers */
+ #gh, .aui-page-header, .issue-header, #project-config-header, #content .aui-sidebar+.aui-page-header, .issue-header .issue-header-content>.aui-page-header {
+    background-color: var(--header-bgcolor);
+}
+</style>
